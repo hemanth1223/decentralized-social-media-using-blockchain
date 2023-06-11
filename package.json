@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@babel/preset-env": "^7.12.1",
+    "next": "^13.4.4",
+    "react-router-dom": "^6.8.2"
+  }
+}
