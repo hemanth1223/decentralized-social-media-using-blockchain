@@ -1,0 +1,48 @@
+# Social Media Account Creation Guide
+https://decentralized-social-media-blockchain.vercel.app/ :- this is the link to open it in the browser.
+
+Welcome to our social media platform! To create an account and start connecting with others, follow the steps below.
+
+## Prerequisites
+
+Before proceeding with the account creation process, make sure you have the following:
+
+1. A web browser with the MetaMask wallet extension installed.
+   - You can download and install MetaMask from the official website: [MetaMask](https://metamask.io/)
+
+2. A MetaMask wallet with an active password.
+   - If you don't have a MetaMask wallet, create one by following the instructions provided on their website.
+
+3. Some ethers on the Sepolia Test Network.
+   - You'll need ethers to mint your own NFT profile image.
+   - To obtain ethers, you can visit the Sepolia Faucet website: [Sepolia Faucet](https://sepoliafaucet.com/)
+   - Alternatively, you can use the following link to access the faucet directly: [Sepolia Faucet](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwibn8Wd6J_-AhVakmYCHXHHDFsYABABGgJzbQ&ae=2&dsh=1&agsac=HTvWjJjf0gA&cit=CkQKCAjw586hBhADEjQA_xl6CybXddQNaH3q6o1Rz_RlOVjL_GP5YNlMqy_U8zmRlrI9aFSK1WAN9gnIM5lkAj1lGgI9kPD_BwE&ohost=www.google.com&cid=CAESauD2K-zVDCxYNILNDyB_ybKRhUAoGae3xsvm7n_wnzMpPPN5Qjb2uFMorVfKQznGg5ASsZFeR39WfxnqDCwe-HTEp6d_UXT4Ef0DRlL4UDA1rxLpgE0kAqMa5aIeP55jjcMOHwBRb-EG6EI&sig=AOD64_24BrxoUNKXkpmLDNZsCHPwGJZYGg&q&adurl&ved=2ahUKEwi1qb6d6J_-AhVnRmwGHWM2ANkQ0Qx6BAgIEAE&ms=CoACflXIHvrzyt1JcTD_0APmQ3RFCrjLoRrDOKb9BjOsDdIs91Vdato1MPt3gbQyWkkjPauemhg0In3Qb8Lc6t9n9zar3dnYi-HCI3wfsUufhbeIDrnbP6N9c0o8OOdwHrznHpV-xaIuJoZKC1jNaEuvyqpI9z6RHzTVTkVMWb3aUAsdphTreyUndphzXbXbbe7HHZvhAYT5c4b8slR4liyrddWFnu9y-0FRvSbQPZU5LKlIq84tPxm4K1_5lj4gr48WbaMyhjyejygjycrIeHoytLm9bjMwMctsVLNxUZsUKydxM07QJ4UTH9g-JdLwVu04ugB0rnCWgd9MnIIU1-Pam
+
+AqAApElEKrvaSLiz-tM9FDhchXxTYoOcJAN0H1DK3xRTAgHKW4lUEwry2QXdwdIFiFPkmEBq5OEHVwzwK_67_46e8WXAD2I6CC3FyxkRgDaSxURlQ6roJuiklo0ICKzu-Y2HWw7vdZiq9s3rwxlSl6wHQMbYVQEm_e8YTzjnZuW7qUXA7nrxysgyc2R_i_HVe4vFRsDBKxyJKubsxaNUSF7Ax_UK2f23pvj7FYMRAA7ufhAycDI-lAwR782PmE-H6HBpsIblUY_L3fcZHajMDS4kX1QoPjaWOdhJ00mzrx1xmR3a_xBa-3VpGwTTU0o2YcZREz_pEO0q9JzdjNcoySbn4SEKAyjZSCWaBHjntYuEKRoOU&dct=1)
+   - This faucet will provide you with 0.5 Sepolia ethers every 24 hours.
+
+## Account Creation Steps
+
+1. Visit our social media platform website and click on the "Sign Up" button.
+
+2. Follow the on-screen instructions to provide your desired username, email address, and a secure password.
+
+3. Once you've completed the initial sign-up process, you'll be prompted to connect your MetaMask wallet.
+
+4. Click on the MetaMask wallet icon in your browser's toolbar and enter your MetaMask wallet password to log in.
+
+5. Make sure your MetaMask wallet is connected to the Sepolia Test Network.
+
+6. If you don't have enough ethers on the Sepolia Test Network, open a new tab in your browser and visit the Sepolia Faucet website or use the provided link.
+
+7. Follow the instructions on the Sepolia Faucet website to receive 0.5 Sepolia ethers into your MetaMask wallet. Remember, you can do this once every 24 hours.
+
+8. Return to our social media platform and navigate to the NFT profile image section.
+
+9. Click on the "Mint" button to create your own NFT profile image.
+
+Congratulations! You have successfully created an account on our social media platform and minted your unique NFT profile image.
+
+Feel free to explore the various features and engage with other users on our platform. Should you have any further questions or need assistance, don't hesitate to reach out to our support team.
+
+Happy connecting and enjoy your time on our social media platform!
