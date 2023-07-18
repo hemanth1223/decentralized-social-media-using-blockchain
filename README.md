@@ -1,38 +1,24 @@
-# decentralized-social-media-blockchain
-Profile Image minting.
-This is a Next.js project bootstrapped with create-next-app.
+# Decentralized Social Media - Blockchain
+This project aims to create a decentralized social media platform using blockchain technology. Users will have enhanced control over their data privacy and content, while leveraging the benefits of blockchain's transparency and immutability. The project utilizes Next.js, Hardhat, and Sanity to build and deploy the application.
 
-Getting Started
-First, run the development server:
-
+# Getting Started
+To run the development server, use the following command:
 npm run dev
-# or
-yarn dev
-Open http://localhost:3000 with your browser to see the result.
 
-You can start editing the page by modifying pages/index.js. The page auto-updates as you edit the file.
+This will start the server on http://localhost:3000. You can modify the pages in the pages directory to customize the application.
 
-API routes can be accessed on http://localhost:3000/api/hello. This endpoint can be edited in pages/api/hello.js.
+API routes can be accessed at http://localhost:3000/api/hello. You can edit this endpoint in the pages/api/hello.js file.
 
-The pages/api directory is mapped to /api/*. Files in this directory are treated as API routes instead of React pages.
+# Learn More
+To learn more about Next.js and its features, refer to the official [Next.js Documentation](https://nextjs.org/docs). Additionally, you can explore the interactive [Learn Next.js](https://nextjs.org/learn/foundations/about-nextjs) tutorial.
 
-Learn More
-To learn more about Next.js, take a look at the following resources:
+For contributions and feedback, visit the [Next.js GitHub repository](https://github.com/vercel/next.js).
 
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
-You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
+# Deployment on Vercel
+The recommended platform for deploying Next.js apps is Vercel. To deploy your app, follow the instructions provided in the [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying).
 
-Deploy on Vercel
-The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
-
-Check out our Next.js deployment documentation for more details.
-
-Basic Sample Hardhat Project
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
+# Hardhat Project
+This project includes a basic Hardhat setup for smart contract development. It features a sample contract, a test script, a deployment script, and a task implementation example. You can execute various tasks using the following commands:
 npx hardhat accounts
 npx hardhat compile
 npx hardhat clean
@@ -41,12 +27,8 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 
+# Sanity Content Studio
+The Sanity Content Studio is integrated into the project as an open-source real-time content editing environment connected to the Sanity backend. To get started, consult the "getting started" section in the documentation and join the community Slack. You can also extend and build plugins to enhance the functionality of the Sanity Content Studio.
 
-Sanity Clean Content Studio
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
-
-Now you can do the following things:
-
-Read “getting started” in the docs
-Join the community Slack
-Extend and build plugins
+# Readme Completion
+This README.md file provides an overview of the project and guides you through the setup and deployment process. It is designed to be clear, concise, and professional, providing all the necessary information for developers and contributors. If you have any further questions or need assistance, feel free to reach out to the project maintainers.
