@@ -3,7 +3,9 @@ This project aims to create a decentralized social media platform using blockcha
 
 # Getting Started
 To run the development server, use the following command:
+```bash
 npm run dev
+```
 
 This will start the server on http://localhost:3000. You can modify the pages in the pages directory to customize the application.
 
@@ -19,6 +21,7 @@ The recommended platform for deploying Next.js apps is Vercel. To deploy your ap
 
 # Hardhat Project
 This project includes a basic Hardhat setup for smart contract development. It features a sample contract, a test script, a deployment script, and a task implementation example. You can execute various tasks using the following commands:
+```bash
 npx hardhat accounts
 npx hardhat compile
 npx hardhat clean
@@ -26,6 +29,7 @@ npx hardhat test
 npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
+```
 
 # Sanity Content Studio
 The Sanity Content Studio is integrated into the project as an open-source real-time content editing environment connected to the Sanity backend. To get started, consult the "getting started" section in the documentation and join the community Slack. You can also extend and build plugins to enhance the functionality of the Sanity Content Studio.
