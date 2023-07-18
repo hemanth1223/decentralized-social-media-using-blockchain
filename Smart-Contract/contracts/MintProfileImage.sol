@@ -80,4 +80,4 @@ contract ProfileImageNfts is ERC721, Ownable {
 //     - `getAlltoken`: Returns an array of `RenderToken` structs representing all existing tokens in the collection.
 //     - `mint`: Mints a new token and assigns it to the specified recipient address. It sets the token's URI and increments the token ID.
 
-// The code seems to be a basic implementation of an ERC721 NFT contract for managing profile image NFTs. It allows minting new tokens, setting their URIs, and retrieving token information. However, it does not include features like token transfer or additional metadata.
+// code seems to be a basic implementation of an ERC721 NFT contract for managing profile image NFTs. It allows minting new tokens, setting their URIs, and retrieving token information. However, it does not include features like token transfer or additional metadata.
