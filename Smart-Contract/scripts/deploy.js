@@ -24,3 +24,4 @@ console.log("Account balance:",await deployer.getBalance().toString());
     process.exit(1)
   }
 })()
+// end
